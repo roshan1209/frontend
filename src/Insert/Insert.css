@@ -1,0 +1,38 @@
+.namediv{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.formdiv{
+    margin: 50px;
+}
+.arrowdiv{
+    margin-top: 10px!important;
+    color: black!important;
+    font-size: 30px!important;
+}
+.eachfield{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: center;
+}
+.texteareafield{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: start;
+}
+.last{
+    margin-left: 150px!important;
+}
+.textfieldcss{
+    width: 370px!important;
+}
+.button{
+    color: white!important;
+    background-color: black!important;
+    width: 100px!important;
+    border-radius: 20px!important;
+}

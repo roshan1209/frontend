@@ -1,0 +1,29 @@
+.navoption{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.button{
+    color: white!important;
+    background-color: black!important;
+    border-radius: 20px!important;
+}
+.actionbutton{
+    color: black!important;
+}
+.popupdiv{
+    padding: 20px;
+    background-color: gray;
+    color: white;
+    justify-content: center;
+    text-align: center;
+    margin-right: 300px;
+}
+.popbutton{
+    color: white!important;
+    border: 1px solid white!important;
+    margin: 4px!important;
+}
